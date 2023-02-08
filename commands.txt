@@ -1,0 +1,35 @@
+Ejercicio 1.-
+$ mkdir -p {Apli/{Word/{Textos,Notas},Access/,Excel/{Tablas,Info}},Prog/{Basic,Pascal,Fortran},Varios/}
+
+Ejercicio 2.-
+$ cd Apli/Excel/Tablas/
+
+Ejercicio 3.-
+$ cd ../../../
+
+Ejercicio 4.-
+$ ls -1 Prog/
+
+Ejercicio 5.-
+$ rmdir Prog/Pascal/
+
+Ejercicio 6.-
+$ cd Varios/ && mkdir ../Apli/Word/Pract
+
+Ejercicio 7.-
+$ cd ../Apli/Word/Pract/ && ls -1 ../../Excel/
+
+Ejercicio 8.-
+$ ls -a ../../Excel/Tablas/
+
+Ejercicio 9.-
+$ cd ../../ && mkdir ../Varios/Agenda/
+
+Ejercicio 10.-
+$ rm -r Excel/
+
+Ejercicio 11.-
+$ cd ../ && mkdir -p Nuevo/
+
+Ejercicio 12.-
+$ cd Word/Pract/ | ls -1 Word/
