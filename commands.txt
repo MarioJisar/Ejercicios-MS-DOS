@@ -33,3 +33,5 @@ $ cd ../ && mkdir -p Nuevo/
 
 Ejercicio 12.-
 $ cd Word/Pract/ | ls -1 Word/
+
+mkdir "MS-DOS-Commands/Apli/Word/Textos/" "MS-DOS-Commands/Apli/Word/Notas/" "MS-DOS-Commands/Apli/Access/" "MS-DOS-Commands/Apli/Excel/Tablas/" "MS-DOS-Commands/Apli/Excel/Info/" "MS-DOS-Commands/Prog/Basic/" "MS-DOS-Commands/Prog/Pascal/" "MS-DOS-Commands/Prog/Fortran/" "MS-DOS-Commands/Varios/"
